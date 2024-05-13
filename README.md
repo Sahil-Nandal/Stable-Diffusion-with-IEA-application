@@ -1,4 +1,4 @@
-[Architecture](https://github.com/Sahil-Nandal/Stable-Diffusion-with-IEA-application/assets/79526843/9af2f7e4-88f8-44af-8a17-04d80acb23df)
+![Architecture](https://github.com/Sahil-Nandal/Stable-Diffusion-with-IEA-application/assets/79526843/9af2f7e4-88f8-44af-8a17-04d80acb23df)
 
 <b>Development of an Integrated Architecture:</b> The primary aim is to construct a cohesive and adaptable framework that seamlessly incorporates the Stable Diffusion Model with interactive components. This architecture should facilitate smooth communication between the AI system and the user, enabling intuitive feedback mechanisms and enhancing the overall user experience.
 </br>
