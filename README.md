@@ -10,4 +10,5 @@
 <b>3. Image-to-Image Generation:</b>  Building upon the foundational text-to-image generation, the project aims to extend the capabilities of the system to accommodate image-to-image transformations. By employing the Stable Diffusion Model in this context, users will have the flexibility to manipulate existing images, fostering creativity, and enabling the creation of personalized visual content.
 </br>
 </br>
-<b>Post-Processing Options:</b>  The project endeavors to provide users with a suite of post-processing tools, including adjustments for brightness, contrast, sharpness, and other parameters. These options are designed to empower users to fine-tune and customize the generated images according to their specific preferences and requirements, thereby enhancing user satisfaction and usability.
+<b>Post-Processing Options:</b>  Th![Architecture](https://github.com/Sahil-Nandal/Stable-Diffusion-with-IEA-application/assets/79526843/9af2f7e4-88f8-44af-8a17-04d80acb23df)
+e project endeavors to provide users with a suite of post-processing tools, including adjustments for brightness, contrast, sharpness, and other parameters. These options are designed to empower users to fine-tune and customize the generated images according to their specific preferences and requirements, thereby enhancing user satisfaction and usability.
