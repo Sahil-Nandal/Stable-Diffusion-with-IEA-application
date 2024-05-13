@@ -1,5 +1,7 @@
 ![Architecture](https://github.com/Sahil-Nandal/Stable-Diffusion-with-IEA-application/assets/79526843/9af2f7e4-88f8-44af-8a17-04d80acb23df)
 <i>Above is the architecture of this project, starting with the Stable diffusion text-to-image generation module, then a pool of images is generated. After that thebased on the rating of the user, top images are selected and IEA is applied to them and finally the top image of the array is sent to the Stable diffusion image-to-image generation module along with a prompt. Finally some editing can be done and the final evolved image can be obtained.</i>
+</br>
+</br>
 <b>Development of an Integrated Architecture:</b> The primary aim is to construct a cohesive and adaptable framework that seamlessly incorporates the Stable Diffusion Model with interactive components. This architecture should facilitate smooth communication between the AI system and the user, enabling intuitive feedback mechanisms and enhancing the overall user experience.
 </br>
 </br>
